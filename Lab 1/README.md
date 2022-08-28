@@ -70,10 +70,60 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
+**Setting:** A New York City residential area at night.
+
+**Players:**
+
+* User (Pedestrian #1)
+ * Wearing the Pedestrian Safety Spotlight device
+* Driver
+* Cyclist
+* Pedestrian #2
+  * Without any device
+* Resident sitting on stoop
+ * Without any device
+
+**Activity:**
+* User (Pedestrian #1)
+ * Wearing the Pedestrian Safety Spotlight device
+ * Walking on sidewalk
+* Driver
+ * Driving on street
+ * Turning corner quickly almost hitting User
+* Cyclist
+ * Parking bike on sidewalk rack, User passes by
+* Pedestrian #2
+  * Without any device
+  * Walking on sidewalk in opposite direction of User
+* Resident sitting on stoop
+ * Without any device
+ * Sitting on stoop watching what's going on in the neighborhood, User passes by
+
+**Goals:**
+* User (Pedestrian #1)
+ * Wearing the Pedestrian Safety Spotlight device
+ * Wants to walk safely on sidewalk
+ * Wants to alert others of their presence
+* Driver
+ * Wants to turn around the corner quickly
+* Cyclist
+ * Wants to parking bike on sidewalk rack
+* Pedestrian #2
+  * Without any device
+  * Wants to walk safely on sidewalk
+* Resident sitting on stoop
+ * Without any device
+ * Wants to sit on the stoop and watch what's going on in the neighborhood
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
+![4903D004-CFC1-4721-B93F-0F8505577123](https://user-images.githubusercontent.com/93726317/187099547-8563088e-ee74-42da-b0f7-7aafeff9d412.JPG)
+![A7F12D5B-8DA2-4DD1-9827-F14A8848641B](https://user-images.githubusercontent.com/93726317/187099545-4779c225-8e4e-45aa-9de3-2a460115ab97.JPG)
+![46C3227B-553F-4C7F-B537-138673339348](https://user-images.githubusercontent.com/93726317/187099553-a8a4820f-9907-43d3-ad3c-2a6649894a97.JPG)
+
+
+
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
