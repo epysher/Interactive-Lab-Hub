@@ -128,6 +128,11 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
+Using color in the storyboards could be helpful to provide further context around the different modes of the device.
+
+* Default / 'No Glow': Grey
+* 'Glow': Light blue
+* 'Flash' / 'Alert': Red
 
 
 ## Part B. Act out the Interaction
@@ -135,8 +140,12 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+Alerting the driver to the pedestrian's presence might end up being more distracting and potentially cause further accident if the driver ends up watching the pedestrian instead of the road ahead.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+ * Make colors and sound noticible but not overly distracting for the driver or other drivers on the road.
+ * Add spotlight or flashlight capability for pedestrian practicality
 
 
 ## Part C. Prototype the device
@@ -150,16 +159,22 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+Instructions were clear, thank you. There could be a step added to `$ pip3 install flask` before the `$ pip3 install flask-socketio` step for anyone who does not have Flask from previous projects.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
+https://user-images.githubusercontent.com/93726317/187270247-b7bfd0da-7ad1-4152-90d0-f1325e5dfc7d.mov
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
+https://user-images.githubusercontent.com/93726317/187276145-8b44e8e3-b267-4e5e-827e-c225859564a9.mov
+
+
+
 
 
 ## Part E. Costume the device
@@ -169,17 +184,27 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+![IMG-4692](https://user-images.githubusercontent.com/93726317/187275323-6ca06f98-6172-42d7-919f-eb2f737e580b.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
-
+ * Device should be 
+   * Lightweight to be comfortable for User while walking
+   * Durable enough to endure walking / running impact and to withstand different weather conditions
+   * Practical, such that users would feel it would be a useful addition to their walking routine
+   * Aesthetically pleasing enough to have user want to wear it, but not distracting
+ * Light should be 
+   * Bright enough to provide 'pedestrian presence indication' or provide a flashlight if users needs
+   * Noticible but not distracting
+ * Speaker should be present to allow for audio alerts, if user desires
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+https://user-images.githubusercontent.com/93726317/187270474-6461320f-966c-4cde-b356-6a0fad737bb7.mov
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+Michael Kelleher (mjk289) - videographer extraordinaire
 
 
 # Staging Interaction, Part 2 
