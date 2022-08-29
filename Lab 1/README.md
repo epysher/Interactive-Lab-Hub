@@ -70,7 +70,9 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
-**Setting:** A New York City residential area at night.
+**Setting:** 
+
+A New York City residential area at night.
 
 **Players:**
 
@@ -84,6 +86,7 @@ The interactive device can be anything *except* a computer, a tablet computer or
  * Without any device
 
 **Activity:**
+
 * User (Pedestrian #1)
  * Wearing the Pedestrian Safety Spotlight device
  * Walking on sidewalk
@@ -100,6 +103,7 @@ The interactive device can be anything *except* a computer, a tablet computer or
  * Sitting on stoop watching what's going on in the neighborhood, User passes by
 
 **Goals:**
+
 * User (Pedestrian #1)
  * Wearing the Pedestrian Safety Spotlight device
  * Wants to walk safely on sidewalk
@@ -118,8 +122,11 @@ The interactive device can be anything *except* a computer, a tablet computer or
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
+
 ![4903D004-CFC1-4721-B93F-0F8505577123](https://user-images.githubusercontent.com/93726317/187099547-8563088e-ee74-42da-b0f7-7aafeff9d412.JPG)
+
 ![A7F12D5B-8DA2-4DD1-9827-F14A8848641B](https://user-images.githubusercontent.com/93726317/187099545-4779c225-8e4e-45aa-9de3-2a460115ab97.JPG)
+
 ![46C3227B-553F-4C7F-B537-138673339348](https://user-images.githubusercontent.com/93726317/187099553-a8a4820f-9907-43d3-ad3c-2a6649894a97.JPG)
 
 
@@ -128,6 +135,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
+
 Using color in the storyboards could be helpful to provide further context around the different modes of the device.
 
 * Default / 'No Glow': Grey
@@ -140,6 +148,7 @@ Using color in the storyboards could be helpful to provide further context aroun
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
 Alerting the driver to the pedestrian's presence might end up being more distracting and potentially cause further accident if the driver ends up watching the pedestrian instead of the road ahead.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
@@ -159,18 +168,21 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
 Instructions were clear, thank you. There could be a step added to `$ pip3 install flask` before the `$ pip3 install flask-socketio` step for anyone who does not have Flask from previous projects.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
+
 https://user-images.githubusercontent.com/93726317/187270247-b7bfd0da-7ad1-4152-90d0-f1325e5dfc7d.mov
 
 
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
+
 https://user-images.githubusercontent.com/93726317/187276145-8b44e8e3-b267-4e5e-827e-c225859564a9.mov
 
 
@@ -184,9 +196,11 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+
 ![IMG-4692](https://user-images.githubusercontent.com/93726317/187275323-6ca06f98-6172-42d7-919f-eb2f737e580b.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+
  * Device should be 
    * Lightweight to be comfortable for User while walking
    * Durable enough to endure walking / running impact and to withstand different weather conditions
@@ -200,11 +214,14 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
 https://user-images.githubusercontent.com/93726317/187270474-6461320f-966c-4cde-b356-6a0fad737bb7.mov
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
 Michael Kelleher (mjk289) - videographer extraordinaire
+
 
 
 # Staging Interaction, Part 2 
