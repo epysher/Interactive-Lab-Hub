@@ -57,18 +57,6 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage an interaction with your interactive device, think about:
-
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-
 \*\***Describe your setting, players, activity and goals here.**\*\*
 **Setting:** 
 
@@ -77,49 +65,48 @@ A New York City residential area at night.
 **Players:**
 
 * User (Pedestrian #1)
- * Wearing the Pedestrian Safety Spotlight device
+  - Wearing the Pedestrian Safety Spotlight device
 * Driver
 * Cyclist
 * Pedestrian #2
-  * Without any device
+  - Without any device
 * Resident sitting on stoop
- * Without any device
+  - Without any device
 
 **Activity:**
 
 * User (Pedestrian #1)
- * Wearing the Pedestrian Safety Spotlight device
- * Walking on sidewalk
+  - Wearing the Pedestrian Safety Spotlight device
+  - Walking on sidewalk
 * Driver
- * Driving on street
- * Turning corner quickly almost hitting User
+  - Driving on street
+  - Turning corner quickly almost hitting User
 * Cyclist
- * Parking bike on sidewalk rack, User passes by
+  - Parking bike on sidewalk rack, User passes by
 * Pedestrian #2
-  * Without any device
-  * Walking on sidewalk in opposite direction of User
+  - Without any device
+  - Walking on sidewalk in opposite direction of User
 * Resident sitting on stoop
- * Without any device
- * Sitting on stoop watching what's going on in the neighborhood, User passes by
+  - Without any device
+  - Sitting on stoop watching what's going on in the neighborhood, User passes by
 
 **Goals:**
 
 * User (Pedestrian #1)
- * Wearing the Pedestrian Safety Spotlight device
- * Wants to walk safely on sidewalk
- * Wants to alert others of their presence
+  - Wearing the Pedestrian Safety Spotlight device
+  - Wants to walk safely on sidewalk
+  - Wants to alert others of their presence
 * Driver
- * Wants to turn around the corner quickly
+  - Wants to turn around the corner quickly
 * Cyclist
- * Wants to parking bike on sidewalk rack
+  - Wants to parking bike on sidewalk rack
 * Pedestrian #2
-  * Without any device
-  * Wants to walk safely on sidewalk
+  - Without any device
+  - Wants to walk safely on sidewalk
 * Resident sitting on stoop
- * Without any device
- * Wants to sit on the stoop and watch what's going on in the neighborhood
+  - Without any device
+  - Wants to sit on the stoop and watch what's going on in the neighborhood
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
 
@@ -130,9 +117,6 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 ![46C3227B-553F-4C7F-B537-138673339348](https://user-images.githubusercontent.com/93726317/187099553-a8a4820f-9907-43d3-ad3c-2a6649894a97.JPG)
 
 
-
-
-Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
 
@@ -159,27 +143,16 @@ Alerting the driver to the pedestrian's presence might end up being more distrac
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
-
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
-
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
 Instructions were clear, thank you. There could be a step added to `$ pip3 install flask` before the `$ pip3 install flask-socketio` step for anyone who does not have Flask from previous projects.
 
 ## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
 https://user-images.githubusercontent.com/93726317/187270247-b7bfd0da-7ad1-4152-90d0-f1325e5dfc7d.mov
 
-
-Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
@@ -191,29 +164,31 @@ https://user-images.githubusercontent.com/93726317/187276145-8b44e8e3-b267-4e5e-
 
 ## Part E. Costume the device
 
-Only now should you start worrying about what the device should look like. Develop three costumes so that you can use your phone as this device.
-
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
-
 \*\***Include sketches of what your devices might look like here.**\*\*
 
-![IMG-4692](https://user-images.githubusercontent.com/93726317/187275323-6ca06f98-6172-42d7-919f-eb2f737e580b.jpg)
+![IMG-4694](https://user-images.githubusercontent.com/93726317/187328159-64dc1d2a-e54d-4458-8aa2-04218ff3c8c4.jpg)
+
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
- * Device should be 
-   * Lightweight to be comfortable for User while walking
-   * Durable enough to endure walking / running impact and to withstand different weather conditions
-   * Practical, such that users would feel it would be a useful addition to their walking routine
-   * Aesthetically pleasing enough to have user want to wear it, but not distracting
- * Light should be 
-   * Bright enough to provide 'pedestrian presence indication' or provide a flashlight if users needs
-   * Noticible but not distracting
- * Speaker should be present to allow for audio alerts, if user desires
+* Device should be 
+  - Lightweight to be comfortable for User while walking
+  - Durable enough to endure walking / running impact and to withstand different weather conditions
+  - Practical, such that users would feel it would be a useful addition to their walking routine
+  - Aesthetically pleasing enough to have user want to wear it, but not distracting
+* Light should be 
+  - Bright enough to provide 'pedestrian presence indication' or provide a flashlight if users needs
+  - Noticible but not distracting
+* Speaker should be present to allow for audio alerts, if user desires
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+Starring:
+
+* **Statue of Liberty** as *User wearing device while walking in NYC at night*
+* **ep448** as *Driver turning corner quickly, almost injuring User but sees Pedestrian Safety Spotlight and avoids collision*
 
 https://user-images.githubusercontent.com/93726317/187270474-6461320f-966c-4cde-b356-6a0fad737bb7.mov
 
