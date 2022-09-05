@@ -58,6 +58,7 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 ## Part A. Plan 
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
+
 **Setting:** 
 
 A New York City residential area at night.
@@ -209,12 +210,108 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+"Very well thought out device interaction. Setting and players were clearly put across. Credits to pedestrian actor!"
+"Neck and Arm wearables got me wondering if it can used as a personal safety device to alert nearby pedestrians or discourage would be attackers Wondering if adding a phone case is sustainable as it limits the users interaction of their mobile device to a single hand. Curious to know if you can prioritize only sound during the day, as color indication might not be sufficient to notify oncoming traffic"
+
 
 ## Make it your own
 
-Do last week’s assignment again, but this time: 
-1) It doesn’t have to (just) use light, 
-2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative! Feel free to fork and modify the tinkerbell code! 
-3) We will be grading with an emphasis on creativity. 
+\*\***Description**\*\*
 
-\*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+After discussion the Lab 1 Part 1 prototype with classmates during lab, it was clear that a wearable device might not provide enough protection for Pedestrians and might be an annoyance to bring along while setting out for a walk. Instead, Part 2 focuses on infrastructure based lighting Devices that a county or town could easily implement along any road by equipping the trees, poles, mailboxes, or other items with the Devices to protect Pedestrians and Cyclists.
+
+**Setting:** 
+
+Suburban or rural area at night with trees, poles, or other objects equipped with the safety lighting devices to help illuminate the path for pedestrians, help pedestrians safely cross roads at night, and help cyclists stay on paths.
+
+**Players:**
+
+* Pedestrian
+* Driver
+* Cyclist
+* Wildlife
+
+**Activity:**
+
+* Pedestrian
+  - Walking near trees equipped with devices
+  - Waiting to cross road
+  - Crossing road
+* Driver
+  - Driving on road near trees equipped with devices
+* Cyclist
+  - Biking along a river on path equipped with devices 
+* Wildlife
+  - Moving near trees equipped with devices
+
+**Goals:**
+
+* Pedestrian
+  - Wants to walk safely walk at night
+  - Wants to cross road safely
+* Driver
+  - Wants to drive without hitting any pedestrians
+* Cyclist
+  - Wants to  safely bike on path at night
+* Wildlife
+  - Wants to be undisturbed by man made devices in their natural habitat
+
+
+\*\***Storyboards**\*\*
+![Pedestrian passing interaction](https://user-images.githubusercontent.com/93726317/188503621-7a20eab9-4386-4877-90b5-54592ee6c3ca.jpg)
+![Driver interaction](https://user-images.githubusercontent.com/93726317/188503615-3d4023e5-b957-4833-8655-7b5a7996ecbb.jpg)
+![Pedestrian crossing interaction](https://user-images.githubusercontent.com/93726317/188503617-6d59998e-da96-4090-aef8-e1c1daa95736.jpg)
+![Cyclist interaction](https://user-images.githubusercontent.com/93726317/188503612-b69a92a4-4c63-43ae-83ad-558b910058fe.jpg)
+![Wildlife interaction](https://user-images.githubusercontent.com/93726317/188503610-ed840c2a-1132-4fcc-84a1-8bf4b42cc7c3.jpg)
+
+
+\*\***Sketches of potential design**\*\*
+
+![Prototype Sketches](https://user-images.githubusercontent.com/93726317/188505975-9eee45b7-8aa5-442a-8ad5-83d8ad8941ba.jpg)
+
+
+\*\***Videos of prototyped interactions.**\*\*
+
+**Pedestrian passing by tree with Device**
+
+In this interaction, a pedestrian passes a tree equipped with the Device, causing the device to light up in blue "low glow" mode.
+
+Starring:
+
+* **ep448** as *Pedestrian passing by device**
+
+
+https://user-images.githubusercontent.com/93726317/188504092-502808eb-3eb5-4ed3-90e2-8bbdab2fc63a.mov
+
+
+
+**Pedestrian waiting to cross road lined with trees with Devices, Driver passing by**
+
+In this interaction, a pedestrian waits to cross a road, which is lined with trees equipped with Devices. A Driver approaches the Device, the Device turns red to indicate the Drivers's presence to the Pedestrian to indicate to not cross.
+
+Starring:
+* **Betty White Cutout** as *Pedestrian waiting to cross road*
+* **ep448** as *Driver driving down road*
+
+
+https://user-images.githubusercontent.com/93726317/188504140-37b03d28-8ea2-4ed6-9ef6-723ac18c90ab.mov
+
+
+
+**Pedestrian crossing road lined with trees with Devices**
+
+In this interaction, the Device turns to green and lights up the path to cross the road to indicate to the Pedestrian that it is safe to cross. After the Pedestrian reaches the other side, the Device returns to "no glow" default mode and the path is no longer lit up.
+
+Starring:
+* **Betty White Cutout** as *Pedestrian crossing road*
+
+
+https://user-images.githubusercontent.com/93726317/188504538-b5a95516-19a1-4d2c-b8ed-d2133c899a09.mov
+
+
+
+
+
+\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+
+Michael Kelleher (mjk289) - videographer extraordinaire
