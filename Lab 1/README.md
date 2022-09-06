@@ -196,7 +196,7 @@ https://user-images.githubusercontent.com/93726317/187270474-6461320f-966c-4cde-
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-Michael Kelleher (mjk289) - videographer extraordinaire
+Michael Kelleher (mjk289) - videographer extraordinaire and cardboard cutout lender
 
 
 
@@ -211,7 +211,10 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 "Very well thought out device interaction. Setting and players were clearly put across. Credits to pedestrian actor!"
-"Neck and Arm wearables got me wondering if it can used as a personal safety device to alert nearby pedestrians or discourage would be attackers Wondering if adding a phone case is sustainable as it limits the users interaction of their mobile device to a single hand. Curious to know if you can prioritize only sound during the day, as color indication might not be sufficient to notify oncoming traffic"
+
+"Neck and Arm wearables got me wondering if it can used as a personal safety device to alert nearby pedestrians or discourage would be attackers." 
+
+In class discussion group feedback was this was a device more for Drivers than Pedestrians and this functionality might be better as a car accessory or feature. To create something useful to Pedestrians, it would have to be a large, bright device to properly light the surroudings. 
 
 
 ## Make it your own
@@ -272,46 +275,30 @@ Suburban or rural area at night with trees, poles, or other objects equipped wit
 
 \*\***Videos of prototyped interactions.**\*\*
 
-**Pedestrian passing by tree with Device**
+**Complete Interactions** [Video](https://drive.google.com/file/d/1Xt7mZHEiFEIbaWDV9UGB1qzjOvR5NKHI/view?usp=sharing)
 
-In this interaction, a pedestrian passes a tree equipped with the Device, causing the device to light up in blue "low glow" mode.
+**Scenes in this video:**
 
-Starring:
+* **Pedestrian passing by tree with Device**
+  - In this interaction, a pedestrian passes a tree equipped with the Device, causing the device to light up in blue "low glow" mode.
+  - Starring: **ep448** as *Pedestrian passing by device*
+  - [Scene 1 Video](https://user-images.githubusercontent.com/93726317/188504092-502808eb-3eb5-4ed3-90e2-8bbdab2fc63a.mov)
+* **Pedestrian waiting to cross road lined with trees with Devices, Driver passing by**
+  - In this interaction, a pedestrian waits to cross a road, which is lined with trees equipped with Devices. A Driver approaches the Device, the Device turns red to indicate the Drivers's presence to the Pedestrian to indicate to not cross.
+  - Starring: **Betty White Cutout** as *Pedestrian waiting to cross road* & ***ep448** as *Driver driving down road*
+  - [Scene 2 Video](https://user-images.githubusercontent.com/93726317/188504140-37b03d28-8ea2-4ed6-9ef6-723ac18c90ab.mov)
 
-* **ep448** as *Pedestrian passing by device**
-
-
-https://user-images.githubusercontent.com/93726317/188504092-502808eb-3eb5-4ed3-90e2-8bbdab2fc63a.mov
-
-
-
-**Pedestrian waiting to cross road lined with trees with Devices, Driver passing by**
-
-In this interaction, a pedestrian waits to cross a road, which is lined with trees equipped with Devices. A Driver approaches the Device, the Device turns red to indicate the Drivers's presence to the Pedestrian to indicate to not cross.
-
-Starring:
-* **Betty White Cutout** as *Pedestrian waiting to cross road*
-* **ep448** as *Driver driving down road*
-
-
-https://user-images.githubusercontent.com/93726317/188504140-37b03d28-8ea2-4ed6-9ef6-723ac18c90ab.mov
-
-
-
-**Pedestrian crossing road lined with trees with Devices**
-
-In this interaction, the Device turns to green and lights up the path to cross the road to indicate to the Pedestrian that it is safe to cross. After the Pedestrian reaches the other side, the Device returns to "no glow" default mode and the path is no longer lit up.
-
-Starring:
-* **Betty White Cutout** as *Pedestrian crossing road*
-
-
-https://user-images.githubusercontent.com/93726317/188504538-b5a95516-19a1-4d2c-b8ed-d2133c899a09.mov
-
+* **Pedestrian crossing road lined with trees with Devices**
+  - In this interaction, the Device turns to green and lights up the path to cross the road to indicate to the Pedestrian that it is safe to cross. After the Pedestrian reaches the other side, the Device returns to "no glow" default mode and the path is no longer lit up.
+  - Starring: **Betty White Cutout** as *Pedestrian crossing road*
+  - [Scene 3 Video](https://user-images.githubusercontent.com/93726317/188504538-b5a95516-19a1-4d2c-b8ed-d2133c899a09.mov)
 
 
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 
-Michael Kelleher (mjk289) - videographer extraordinaire
+* Michael Kelleher (mjk289) - videographer extraordinaire
+* Peer Reviewers
+* ["Old School Safety" NZ Air Video](https://www.youtube.com/watch?v=O-5gjkh4r3g) for sound bite
+* Cardboard Cutouts
